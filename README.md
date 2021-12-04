@@ -4,7 +4,7 @@
 
 This README covers how to get started on connecting a stand alone ir-temp sensor to a rassberry-pi4. Motivated to learn and explore new interest. i managed to find a couple sources that helped along the way, created by other users. i created this to maybe help another curious user along their way.
 
-<img src="./assets/sensor-image/Songhe-GY-906-Mlx90614.jpg" width="150" height="150" />
+<img src="https://m.media-amazon.com/images/I/61uSfmJsaYL._SL1500_.jpg" width="150" height="150" />
 
 [link to the sensor i used](https://www.amazon.com/dp/B07YZVDWWB?psc=1&ref=ppx_yo2_dt_b_product_details)
 <br>
